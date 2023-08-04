@@ -1,0 +1,29 @@
+*{margin: 0;
+padding: 0;}
+ .ktm :hover{background-color: aquamarine !important;}
+ .image_item{height: calc(100vh - 80px)!important;}
+ .c-image {height: 100vh;
+    
+    padding: 60px 60px 60px 60px ;
+    background-color: black;
+object-fit: cover !important;}
+.hhh{ display: flex;
+justify-content: space-evenly;
+background-color: antiquewhite;}
+.hhhh {display: flex;
+justify-content: space-evenly;
+background-color: antiquewhite;}
+.rrr h3{color: aqua;
+    background-color: red;
+padding: 20px;
+display: flex;
+justify-content: center;
+font-weight: bolder !important;0
+font-size: ;
+}
+.rrrr {justify-content:space-between !important;} 
+.rrrr :hover{background-color: bisque;
+padding: 20px;}
+ .ww :hover{background-color: aqua;
+padding: 20px;}
+ .img_1 :hover {background-color: aqua !important;}
